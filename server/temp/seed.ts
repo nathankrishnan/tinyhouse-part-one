@@ -37,10 +37,10 @@ const seed = async () => {
 			},
 			{
 				_id: new ObjectId(),
-				title: "Single bedroom located in the heart of downtown San Fransisco",
+				title: "Single bedroom located in the heart of downtown San Francisco",
 				image:
 					"https://res.cloudinary.com/tiny-house/image/upload/v1560646219/mock/San%20Fransisco/san-fransisco-listing-1_qzntl4.jpg",
-				address: "200 Sunnyside Rd, San Fransisco, California",
+				address: "200 Sunnyside Rd, San Francisco, California",
 				price: 25000,
 				numOfGuests: 3,
 				numOfBeds: 2,
